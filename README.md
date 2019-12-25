@@ -11,5 +11,7 @@
   
 ---
 最后的项目运行图为：
-![result](./result.PNG)
+![result](./result.png)
+
+
 
